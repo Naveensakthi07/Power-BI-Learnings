@@ -94,6 +94,7 @@ PatientID,Age,TumorSize,Texture,Density,ClumpThickness,Malignancy
 93,77,6.87,Rough,0.76,1,Benign
 94,30,1.08,Rough,1.2,6,Benign
 95,79,2.24,Smooth,1.13,1,Benign
+101,20,9.4,Rough,1.5,10,Tiruppur
 96,61,7.32,Irregular,1.17,6,Malignant
 97,70,5.45,Smooth,1.48,7,Malignant
 98,41,8.38,Irregular,1.19,8,Benign
